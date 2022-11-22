@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "727173464176",
+    "project_id": "gradproject-5d48e",
+    "storage_bucket": "gradproject-5d48e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727173464176:android:24c476b51ca27702e7f4b5",
+        "android_client_info": {
+          "package_name": "com.osama.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727173464176-7dd2844135ie1omlh5k558nobatcjkvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.osama.eshop",
+            "certificate_hash": "bd317d0040fd69f57790dcb4958bb4f2083c2513"
+          }
+        },
+        {
+          "client_id": "727173464176-dj2ff7o1veqltkl2nqq3ds1kq2lnccss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.osama.eshop",
+            "certificate_hash": "19dc3d75287276d83c9cbede7a0b92e3a189ec08"
+          }
+        },
+        {
+          "client_id": "727173464176-1njnddh4vg81iotjq7m3khtm8ccciuf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr1f-nnldLzVn0q3nMT75RMmGQQuNPZI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727173464176-1njnddh4vg81iotjq7m3khtm8ccciuf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
